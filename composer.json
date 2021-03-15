@@ -1,24 +1,26 @@
 {
-    "name": "gitzhoaxiaoli/think-yy",
-    "description": "The expansion pack for ThinkPhp 6+(百度实现图片识别文字包)",
-    "keywords": ["thinkphp","extension"],
-    "type": "tp6-extension",
-    "license": "BSD-3-Clause",
-    "authors": [
-        {
-            "name": "gitzhoaxiaoli",
-            "email": "406155794@qq.com",
-            "homepage": ""
-        }
-    ],
-    "require": {
-        "topthink/framework": "^6.0.0",
-        "phpoffice/phpspreadsheet": "^1.16"
-
-	},
-    "autoload": {
-        "psr-4": {
-            "yy\\": "src"
-        }
-    }
+    "name":"gitzhoaxiaoli/think-yy",
+    "description":"The expansion pack for ThinkPhp 6+",
+    "keywords":[
+        "thinkphp",
+        "extension"
+    ],
+    "type":"tp6-extension",
+    "license":"BSD-3-Clause",
+    "authors":[
+        {
+            "name":"gitzhoaxiaoli",
+            "email":"406155794@qq.com",
+            "homepage":""
+        }
+    ],
+    "require":{
+        "topthink/framework":"^6.0.0",
+        "phpoffice/phpspreadsheet":"^1.16"
+    },
+    "autoload":{
+        "psr-4":{
+            "yy\\":"src"
+        }
+    }
 }
