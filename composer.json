@@ -1,5 +1,5 @@
 {
-    "name":"James-xiao/think-yy",
+    "name":"james-xiao/think-yy",
     "description":"The expansion pack for ThinkPhp 6+",
     "keywords":[
         "thinkphp",
@@ -9,7 +9,7 @@
     "license":"BSD-3-Clause",
     "authors":[
         {
-            "name":"gitzhoaxiaoli",
+            "name":"James xiao",
             "email":"406155794@qq.com",
             "homepage":""
         }
